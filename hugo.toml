@@ -1,0 +1,47 @@
+baseURL = "/"
+title = "My Blog"
+theme = "PaperMod"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+[params]
+  description = "My personal blog"
+  author = "Author"
+  mainSections = ["posts"]
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowFullTextinRSS = true
+  disableSpecial1stPost = false
+  displayFullLangName = true
+  comments = false
+
+[params.homeInfoParams]
+  Title = "Welcome to My Blog"
+  Content = "A simple blog created with Hugo and PaperMod theme"
+
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/"
+
+[menu]
+  [[menu.main]]
+    name = "Archive"
+    url = "archives"
+    weight = 10
+  [[menu.main]]
+    name = "Search"
+    url = "search/"
+    weight = 20
+  [[menu.main]]
+    name = "Tags"
+    url = "tags/"
+    weight = 30
