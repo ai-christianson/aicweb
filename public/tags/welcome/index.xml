@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Welcome on christianson.ai</title>
+    <link>//localhost:1313/tags/welcome/</link>
+    <description>Recent content in Welcome on christianson.ai</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/welcome/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World: Welcome to My New Blog</title>
+      <link>//localhost:1313/posts/hello-world/</link>
+      <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/hello-world/</guid>
+      <description>My first post on this new Hugo site</description>
+      <content:encoded><![CDATA[<h2 id="welcome-to-my-new-blog">Welcome to My New Blog!</h2>
+<p>Hello and welcome to my new blog! I&rsquo;ve just set up this site using <a href="https://gohugo.io/">Hugo</a>, a fast and modern static site generator, along with the beautiful <a href="https://github.com/adityatelange/hugo-PaperMod">PaperMod</a> theme.</p>
+<h3 id="what-to-expect">What to Expect</h3>
+<p>This blog will be a place where I share my thoughts, projects, and experiences. I&rsquo;m excited to start this journey and hope you&rsquo;ll find the content valuable and interesting.</p>
+<h3 id="features-of-this-site">Features of This Site</h3>
+<p>This Hugo site offers:</p>
+<ul>
+<li>Fast loading speeds</li>
+<li>Mobile-first responsive design</li>
+<li>Dark/light mode toggle</li>
+<li>Search functionality</li>
+<li>Easy navigation</li>
+<li>Clean, readable typography</li>
+</ul>
+<h3 id="getting-started-with-hugo">Getting Started with Hugo</h3>
+<p>If you&rsquo;re interested in creating your own blog with Hugo, it&rsquo;s remarkably simple:</p>
+<ol>
+<li>Install Hugo</li>
+<li>Create a new site with <code>hugo new site mysite</code></li>
+<li>Choose and install a theme</li>
+<li>Create content with <code>hugo new content posts/your-post.md</code></li>
+<li>Run the development server with <code>hugo server -D</code></li>
+</ol>
+<h3 id="stay-tuned">Stay Tuned!</h3>
+<p>More content is coming soon. Feel free to explore the site and check back for updates!</p>
+<hr>
+<p>Thanks for stopping by!</p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>
