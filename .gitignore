@@ -31,7 +31,6 @@ next-env.d.ts/public/
 /public/
 
 # Hugo build output
-/public/
 /resources/
 
 # Hugo build lock file

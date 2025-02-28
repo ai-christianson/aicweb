@@ -72,3 +72,12 @@ buildExpired = false
     name = "Tags"
     url = "tags/"
     weight = 30
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.goldmark.renderHooks.image]
+    enableDefault = true
+  [markup.goldmark.renderHooks.link]
+    enableDefault = true

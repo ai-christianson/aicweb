@@ -1,0 +1,11 @@
+<figure class="image-caption" style="text-align: center; margin: 1.5rem auto;">
+    {{ $url := .Get 0 }}
+    {{ $resource := $.Page.Resources.GetMatch $url }}
+    {{ if $resource }}
+        {{ $url = $resource.RelPermalink }}
+    {{ end }}
+    <div style="display: flex; justify-content: center;">
+        <img src="{{ $url }}" alt="{{ .Get 1 }}" style="max-width: {{ or (.Get 2) "80%" }}; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    </div>
+    {{ with .Get 1 }}<figcaption style="font-size: 0.9rem; margin-top: 0.5rem; color: #666; text-align: center;">{{ . }}</figcaption>{{ end }}
+</figure>
