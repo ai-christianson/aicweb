@@ -9,6 +9,10 @@ buildDrafts = false
 buildFuture = false
 buildExpired = false
 
+# Required for search functionality
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
 [params]
   description = "My personal blog"
   author = "Andrew I. Christianson"
