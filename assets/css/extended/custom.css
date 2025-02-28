@@ -24,3 +24,19 @@
     object-position: center 20%; /* Changed from 30% to 20% to move the image further up */
     /* Border removed as requested */
 }
+
+/* Author avatar in blog posts */
+.author-with-avatar {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.author-avatar {
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: center 20%;
+    vertical-align: middle;
+}

@@ -11,7 +11,7 @@ buildExpired = false
 
 [params]
   description = "My personal blog"
-  author = "Author"
+  author = "Andrew I. Christianson"
   mainSections = ["posts"]
   defaultTheme = "auto"
   ShowReadingTime = true
