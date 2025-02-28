@@ -1,0 +1,26 @@
+.centered-content {
+    text-align: center;
+}
+
+.profile-image {
+    display: block;
+    margin: 0 auto 20px auto;
+    width: 200px;  /* Increased from 150px */
+    height: 200px; /* Increased from 150px */
+    border-radius: 50%; /* Makes the image circular */
+    object-fit: cover;
+    object-position: center 20%; /* Changed from 30% to 20% to move the image further up */
+    /* Border removed as requested */
+}
+
+/* Alternative styling for rounded square if preferred */
+.profile-image-square {
+    display: block;
+    margin: 0 auto 20px auto;
+    width: 200px;  /* Increased from 150px */
+    height: 200px; /* Increased from 150px */
+    border-radius: 15px; /* Rounded corners */
+    object-fit: cover;
+    object-position: center 20%; /* Changed from 30% to 20% to move the image further up */
+    /* Border removed as requested */
+}

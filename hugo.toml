@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "My Blog"
+title = "christianson.ai"
 theme = "PaperMod"
 languageCode = "en-us"
 defaultContentLanguage = "en"
@@ -25,8 +25,8 @@ buildExpired = false
   comments = false
 
 [params.homeInfoParams]
-  Title = "Welcome to My Blog"
-  Content = "A simple blog created with Hugo and PaperMod theme"
+  Title = "Hello 👋"
+  Content = "Welcome to the official blog of Andrew I. Christianson."
 
 [[params.socialIcons]]
   name = "github"
