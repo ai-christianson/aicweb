@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="512pt" height="512pt" viewBox="0 0 512 512"
+ preserveAspectRatio="xMidYMid meet">
+<circle cx="256" cy="256" r="256" fill="black"/>
+<text x="256" y="300" font-family="Hack" font-weight="bold" font-size="180" fill="white" text-anchor="middle">ai</text>
+</svg>
