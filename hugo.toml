@@ -30,7 +30,27 @@ buildExpired = false
 
 [[params.socialIcons]]
   name = "github"
-  url = "https://github.com/"
+  url = "https://github.com/ai-christianson"
+
+[[params.socialIcons]]
+  name = "tiktok"
+  url = "https://www.tiktok.com/@ai.christianson"
+
+[[params.socialIcons]]
+  name = "x"
+  url = "https://x.com/ai_christianson"
+
+[[params.socialIcons]]
+  name = "instagram"
+  url = "https://www.instagram.com/ai.christianson/"
+
+[[params.socialIcons]]
+  name = "youtube"
+  url = "https://www.youtube.com/@AndrewIChristianson/shorts"
+
+[[params.socialIcons]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/ai-christianson"
 
 [menu]
   [[menu.main]]
