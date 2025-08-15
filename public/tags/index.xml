@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on christianson.ai</title>
-    <link>//localhost:1313/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on christianson.ai</description>
-    <generator>Hugo -- 0.148.2</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 28 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI</title>
-      <link>//localhost:1313/tags/ai/</link>
+      <link>/tags/ai/</link>
       <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/ai/</guid>
+      <guid>/tags/ai/</guid>
       <description></description>
     </item>
     <item>
       <title>Aider</title>
-      <link>//localhost:1313/tags/aider/</link>
+      <link>/tags/aider/</link>
       <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/aider/</guid>
+      <guid>/tags/aider/</guid>
       <description></description>
     </item>
     <item>
       <title>Coding</title>
-      <link>//localhost:1313/tags/coding/</link>
+      <link>/tags/coding/</link>
       <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/coding/</guid>
+      <guid>/tags/coding/</guid>
       <description></description>
     </item>
     <item>
       <title>Development</title>
-      <link>//localhost:1313/tags/development/</link>
+      <link>/tags/development/</link>
       <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/development/</guid>
+      <guid>/tags/development/</guid>
       <description></description>
     </item>
     <item>
       <title>Open-Source</title>
-      <link>//localhost:1313/tags/open-source/</link>
+      <link>/tags/open-source/</link>
       <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/open-source/</guid>
+      <guid>/tags/open-source/</guid>
       <description></description>
     </item>
     <item>
       <title>RA.Aid</title>
-      <link>//localhost:1313/tags/ra.aid/</link>
+      <link>/tags/ra.aid/</link>
       <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/ra.aid/</guid>
+      <guid>/tags/ra.aid/</guid>
       <description></description>
     </item>
   </channel>
