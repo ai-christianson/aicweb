@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Coding on christianson.ai</title>
-    <link>/tags/coding/</link>
+    <link>//localhost:1313/tags/coding/</link>
     <description>Recent content in Coding on christianson.ai</description>
-    <generator>Hugo -- 0.145.0</generator>
+    <generator>Hugo -- 0.148.2</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 28 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/coding/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/coding/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>RA.Aid&#39;s Journey: From Leveraging Aider to Autonomous Editing</title>
-      <link>/posts/raaid-journey/</link>
+      <link>//localhost:1313/posts/raaid-journey/</link>
       <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>/posts/raaid-journey/</guid>
+      <guid>//localhost:1313/posts/raaid-journey/</guid>
       <description>The evolution of RA.Aid&amp;#39;s editing capabilities and the transition to direct file editing</description>
       <content:encoded><![CDATA[<p>When we first started building <a href="https://github.com/ai-christianson/RA.Aid">RA.Aid</a>, we saw an opportunity to combine the powerful editing capabilities of the AI programming tool Aider with the flexibility of a LangGraph ReAct agent loop. The vision was clear: create an autonomous coding assistant that could intelligently navigate large codebases, identify relevant files, break down complex tasks into manageable steps, and implement changes with minimal intervention.</p>
 <p>Initially, integrating Aider made perfect sense. Aider excelled at handling multi-file edits, seamlessly integrating Git workflows, and applying code changes through LLM-generated unified diffs. It allowed RA.Aid to immediately offer sophisticated, context-aware coding assistance out-of-the-box. Developers could issue high-level instructions, and RA.Aid—through Aider—would reliably execute those edits, reducing the back-and-forth typical of early AI tools.</p>
